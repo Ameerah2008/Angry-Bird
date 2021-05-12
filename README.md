@@ -1,2 +1,2 @@
-# Angry-Bird
-A game with  hitting blocks
+# angryBirdsStage1
+Stage 1 Angry Birds
